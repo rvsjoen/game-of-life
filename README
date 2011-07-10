@@ -1,0 +1,21 @@
+About
+-=-=-
+GOL is a simple Game of Life application written in C.
+
+Features
+-=-=-=-=
+- Loading patterns from external files
+- Colors
+
+Usage
+-=-=-
+./gol golFile.gol
+
+Creators
+-=-=-=-=
+rvsjoen       (Rune V. Sjøen)
+jeremythegeek (Jeremy Bernhardt)
+
+Code
+-=-=
+https://github.com/rvsjoen/game-of-life
